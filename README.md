@@ -1,9 +1,9 @@
 ```javascript
-const helloWorld = () => {
-  console.log("Hi, I'm Brendan!");
+const helloWorld = (name) => {
+  console.log(`Hi, I'm ${name}!`);
 };
 
-helloWorld();
+helloWorld(`Brendan`);
 ```
 
 ### Hi, I'm Brendan!
