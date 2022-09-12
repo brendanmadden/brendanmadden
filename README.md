@@ -1,7 +1,7 @@
 ```javascript
 function helloWorld() {
   console.log("Hi, I'm Brendan!");
-}
+};
 
 helloWorld();
 ```
