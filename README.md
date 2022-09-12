@@ -1,5 +1,5 @@
 ```javascript
-function helloWorld() {
+const helloWorld = () => {
   console.log("Hi, I'm Brendan!");
 };
 
